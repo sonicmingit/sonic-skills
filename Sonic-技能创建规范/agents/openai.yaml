@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sonic-技能创建规范"
+  short_description: "规范中文技能与更新日志，检查本机 Sonic 技能差异并同步到 GitHub"
+  default_prompt: "请使用 $Sonic-技能创建规范 创建或更新技能，或检查本机 sonic- 技能，将可确认的本地更新连同更新日志同步到 GitHub。"
