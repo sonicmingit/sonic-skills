@@ -1,0 +1,4 @@
+interface:
+  display_name: "sonic-小米手表开发"
+  short_description: "国行 Watch 5 原生 APK 开发、圆屏适配与已知问题排查"
+  default_prompt: "使用 $sonic-小米手表开发，根据我的需求复用设备基线和工具链，开发并验证国行 Watch 5 应用，持续保存记录。"

@@ -1,15 +1,15 @@
 ---
-name: Sonic-小米手表开发
+name: sonic-小米手表开发
 description: "开发、修复或移植国行 Xiaomi Watch 5 的 Android APK，复用已验证的原生工程、圆屏布局、资源加载和 BLE 排错经验。用于新建手表应用、真机问题诊断及开发交接；不用于 REDMI Watch 5、海外 Wear OS 或 Vela 应用。"
 ---
 
-# Sonic-小米手表开发
+# sonic-小米手表开发
 
 把新需求推进到可构建、可安装、验证边界明确的 APK；优先复用本机证据，减少重新搜参数、找工具和试错。适用基线来自 2026-11-04/05 的国行 eSIM 实机，不把历史事实当作当前设备在线状态。
 
 ## 使用方法
 
-在新聊天中调用 `$Sonic-小米手表开发`，并说明应用需求和目标工作目录。例如：“使用 $Sonic-小米手表开发，在 E:\Code\Sonic\watch5 开发一个倒计时应用，支持开始、暂停和重置。”技能提供已验证的设备基线、工程入口和排错流程。
+在新聊天中调用 `$sonic-小米手表开发`，并说明应用需求和目标工作目录。例如：“使用 $sonic-小米手表开发，在 E:\Code\Sonic\watch5 开发一个倒计时应用，支持开始、暂停和重置。”技能提供已验证的设备基线、工程入口和排错流程。
 
 若技能列表尚未刷新，直接读取本 `SKILL.md`。本技能不包含 Android SDK、JDK、业务源码或个人签名；资料不可达时按下面说明处理，不冒充已经完成工程检查。
 
@@ -64,6 +64,6 @@ pwsh -NoProfile -File "$skillRoot/scripts/preflight.ps1" -Workspace 'E:/Code/Son
 
 ## 技能维护
 
-唯一维护源位于当前 OneDrive 根目录下的 `AI/skills/sonic/Sonic-watch5-android-dev/`。按 Sonic 规范从 `OneDrive`、`OneDriveConsumer`、`OneDriveCommercial` 环境变量定位；用户明确指定时使用指定位置，多候选或变量缺失按规范处理，不猜固定盘符。本机当前解析为 `E:/Sonic/OneDrive/AI/skills/sonic/Sonic-watch5-android-dev/`，仅是本机记录。英文目录名与中文技能名不同，Codex 用户目录及原工作区使用链接指向维护源，避免独立副本分叉；保存在 OneDrive 目录不等于已经确认云端同步。
+唯一维护源位于当前 OneDrive 根目录下的 `AI/skills/sonic/sonic-watch5-android-dev/`。按 Sonic 规范从 `OneDrive`、`OneDriveConsumer`、`OneDriveCommercial` 环境变量定位；用户明确指定时使用指定位置，多候选或变量缺失按规范处理，不猜固定盘符。本机当前解析为 `E:/Sonic/OneDrive/AI/skills/sonic/sonic-watch5-android-dev/`，仅是本机记录。英文目录名与中文技能名不同，Codex 用户目录及原工作区使用链接指向维护源，避免独立副本分叉；保存在 OneDrive 目录不等于已经确认云端同步。
 
-修改本技能前先读取同级 `Sonic-skill-rules/SKILL.md`；每次实际变更更新 [CHANGELOG.md](CHANGELOG.md)，完成检查后按规范同步到 `sonicmingit/sonic-skills`。仅调用本技能开发手表应用不触发技能发布流程。通用校验器的小写英文命名约定不等于平台实际限制，不能仅据此把中文名称改回英文。
+修改本技能前先读取同级 `sonic-skill-rules/SKILL.md`；每次实际变更更新 [CHANGELOG.md](CHANGELOG.md)，完成检查后按规范同步到 `sonicmingit/sonic-skills`。仅调用本技能开发手表应用不触发技能发布流程。通用校验器的小写英文命名约定不等于平台实际限制，不能仅据此把中文名称改回英文。
