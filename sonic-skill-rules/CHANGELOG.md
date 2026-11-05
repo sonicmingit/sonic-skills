@@ -2,6 +2,12 @@
 
 ## 2026-11-05
 
+### 默认前缀统一为小写
+
+- 新技能的英文目录、中文名称与显示名称默认统一使用小写 `sonic-` 前缀。
+- 本规范目录改为 `sonic-skill-rules`，名称改为 `sonic-技能创建规范`，同步更新全局入口和安装链接。
+- 扫描继续忽略前缀大小写，兼容已有技能；本次不批量重命名其他技能。
+
 ### 从 OneDrive 变量定位仓库并优先保存
 
 - 检查更新时从 OneDrive、OneDriveConsumer、OneDriveCommercial 环境变量定位 `AI/skills/sonic`，支持不同机器的盘符与账户路径。

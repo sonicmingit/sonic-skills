@@ -1,0 +1,4 @@
+interface:
+  display_name: "sonic-技能创建规范"
+  short_description: "规范英文目录、中文技能名称与更新日志，检测我创建的技能并同步 GitHub"
+  default_prompt: "请使用 $sonic-技能创建规范 检测我创建的 Skill，将可确认的本地更新连同更新日志同步到 GitHub。"
