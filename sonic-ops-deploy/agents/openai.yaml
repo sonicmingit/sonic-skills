@@ -1,0 +1,4 @@
+interface:
+  display_name: "sonic-ops-规范部署"
+  short_description: "按 Sonic 规范部署 Docker 项目，整理目录、保留配置并处理更新与失败恢复"
+  default_prompt: "使用 $sonic-ops-规范部署，检查当前项目并按规范完成部署或目录整理，保留实际配置与数据并验证结果。"
