@@ -32,7 +32,7 @@
 | 技能名称 | 目录与文档 | 用途 |
 |---|---|---|
 | sonic-dev-SD2开发指南 | [sonic-dev-sd2](sonic-dev-sd2/SKILL.md) | 为 ESP8266 SD2 桌面小电视开发或移植固件，查询硬件引脚，诊断刷写、启动与显示问题。 |
-| sonic-dev-小米手表开发 | [sonic-dev-watch5](sonic-dev-watch5/SKILL.md) | 开发国行 Xiaomi Watch 5 Android 应用，复用圆屏布局、资源加载、构建及 BLE 排错经验；固定本机签名备份路径，支持换机恢复。 |
+| sonic-dev-小米手表开发 | [sonic-dev-watch5](sonic-dev-watch5/SKILL.md) | 国行 Watch 5 APK 开发；先设计再按难度选择子 Agent 模型，复用圆屏/BLE 经验及固定签名备份，支持换机恢复。 |
 
 ### use：工具、平台与设备使用
 
