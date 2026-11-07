@@ -1,0 +1,4 @@
+interface:
+  display_name: "sonic-use-横纵分析与得到笔记"
+  short_description: "使用横纵分析法深度研究，生成报告并保存到得到笔记。"
+  default_prompt: "请使用 $sonic-use-横纵分析与得到笔记，根据我的需求完成任务并说明结果。"

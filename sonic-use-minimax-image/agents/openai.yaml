@@ -1,0 +1,4 @@
+interface:
+  display_name: "sonic-use-MiniMax图片生成"
+  short_description: "使用 MiniMax 接口进行文生图和图生图，按技能说明执行并核对结果。"
+  default_prompt: "请使用 $sonic-use-MiniMax图片生成，根据我的需求完成任务并说明结果。"

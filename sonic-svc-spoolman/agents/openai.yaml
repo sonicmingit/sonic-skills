@@ -1,0 +1,4 @@
+interface:
+  display_name: "sonic-svc-耗材管理"
+  short_description: "在自部署 Spoolman 服务中录入品牌、耗材与线轴采购信息。"
+  default_prompt: "请使用 $sonic-svc-耗材管理，根据我的需求完成任务并说明结果。"

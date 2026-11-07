@@ -1,0 +1,4 @@
+interface:
+  display_name: "sonic-use-小米MiMo语音"
+  short_description: "使用小米 MiMo 将文本和朗读稿生成语音，按技能说明执行并核对结果。"
+  default_prompt: "请使用 $sonic-use-小米MiMo语音，根据我的需求完成任务并说明结果。"

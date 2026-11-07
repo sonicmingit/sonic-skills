@@ -1,0 +1,4 @@
+interface:
+  display_name: "sonic-use-Gemini图片生成"
+  short_description: "通过兼容 OpenAI 的接口调用 Gemini 模型生成图片。"
+  default_prompt: "请使用 $sonic-use-Gemini图片生成，根据我的需求完成任务并说明结果。"

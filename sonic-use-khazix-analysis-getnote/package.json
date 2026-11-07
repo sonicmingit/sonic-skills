@@ -1,0 +1,20 @@
+{
+  "name": "sonic-use-khazix-analysis-getnote",
+  "version": "1.0.0",
+  "description": "横纵分析法：AI时代快速建立认知框架的通用研究方法论 [Created by Sonic]",
+  "main": "SKILL.md",
+  "author": "卡兹克",
+  "creator": "sonic",
+  "license": "MIT",
+  "keywords": [
+    "research",
+    "analysis",
+    "deep-research",
+    "competitive-analysis",
+    "getnote"
+  ],
+  "dependencies": {},
+  "peerDependencies": {
+    "getnote": "*"
+  }
+}

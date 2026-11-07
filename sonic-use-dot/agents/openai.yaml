@@ -1,0 +1,4 @@
+interface:
+  display_name: "sonic-use-墨水屏控制"
+  short_description: "通过 Dot API 推送文字和图片，查询墨水屏设备状态。"
+  default_prompt: "请使用 $sonic-use-墨水屏控制，根据我的需求完成任务并说明结果。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "sonic-use-写作与飞书笔记"
+  short_description: "按写作规范生成文章并保存到指定飞书知识库目录，按技能说明执行并核对结果。"
+  default_prompt: "请使用 $sonic-use-写作与飞书笔记，根据我的需求完成任务并说明结果。"

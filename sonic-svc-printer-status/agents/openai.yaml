@@ -1,0 +1,4 @@
+interface:
+  display_name: "sonic-svc-3D打印机状态"
+  short_description: "通过 Home Assistant 查询拓竹打印状态、分析截图并发送报告。"
+  default_prompt: "请使用 $sonic-svc-3D打印机状态，根据我的需求完成任务并说明结果。"

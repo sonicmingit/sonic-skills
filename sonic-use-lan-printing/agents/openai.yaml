@@ -1,0 +1,4 @@
+interface:
+  display_name: "sonic-use-局域网打印"
+  short_description: "通过 CUPS 打印文件、管理打印队列并诊断打印故障。"
+  default_prompt: "请使用 $sonic-use-局域网打印，根据我的需求完成任务并说明结果。"

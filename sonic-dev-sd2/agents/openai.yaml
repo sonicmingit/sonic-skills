@@ -1,0 +1,4 @@
+interface:
+  display_name: "sonic-dev-SD2开发指南"
+  short_description: "识别 SD2 主板与镜像分支，开发信息屏固件，排查刷机、背光和显示问题"
+  default_prompt: "使用 $sonic-dev-SD2开发指南，帮我基于 SD2 主版开发并验证一个信息屏。"
