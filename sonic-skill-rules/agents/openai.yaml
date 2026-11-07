@@ -1,4 +1,0 @@
-interface:
-  display_name: "sonic-技能创建规范"
-  short_description: "规范技能创建与日志，将本机更新推送 GitHub 或下载远端更新到本机"
-  default_prompt: "请使用 $sonic-技能创建规范 查看技能有没有更新，将确认的 GitHub 更新下载到 OneDrive，再更新当前 Agent 的技能目录。"

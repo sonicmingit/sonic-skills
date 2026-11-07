@@ -1,0 +1,4 @@
+interface:
+  display_name: "sonic-rules-技能创建规范"
+  short_description: "统一五类技能前缀、英文目录、中文名称与日志，支持 OneDrive 和 GitHub 同步"
+  default_prompt: "请使用 $sonic-rules-技能创建规范，按 rules/dev/use/svc/ops 分类创建或维护我的技能，并按需上传本机更新或下载 GitHub 更新。"
