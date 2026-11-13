@@ -1,0 +1,13 @@
+interface:
+  display_name: "sonic-rules-项目交接与分工"
+  short_description: "初始化项目规则与交接卡，按需规划、实施和验收，支持跨会话续接"
+  default_prompt: "使用 $sonic-rules-项目交接与分工 检查项目，补齐规则和交接文件，然后继续完成本次任务。"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
