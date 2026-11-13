@@ -1,0 +1,4 @@
+interface:
+  display_name: "sonic-dev-AIPassport开发规范"
+  short_description: "整合 AI Passport 开发、通用配置页、归档和授权实机验收规范"
+  default_prompt: "使用 $sonic-dev-AIPassport开发规范，按项目需求开发 AI Passport 应用并完成验证与归档。"

@@ -1,0 +1,11 @@
+{
+  "CHANGELOG.md": "b19c3109c0f22fe1fa874700957759119f608a8c0124b62b17b178362ec11f3f",
+  "LICENSE.upstream.txt": "0ca7f3a382d5d681ced06d6008081c1d51b05a2547c94c3350058efbe7ddb5ee",
+  "SKILL.md": "91981604d98c25da483d0506f03e1949731167f1d63ea3df48faa4e6d24eec30",
+  "agents/openai.yaml": "e96ef6b28d8e060f08338793593f708d13c4d98f172930c1f197bda47377bc74",
+  "assets/passport-console-template.zip": "929f7daefebb57222f58a497d52f874250ca92e8c1f6b770542ac445eb1ee5d0",
+  "references/provenance.md": "2b5a46b300491f51d9b0890d9c64d6b0ccd254e3654651eec2c4858870cb3df6",
+  "references/validation.md": "9bf0f3b3c6c45be3eb44f1cd033de909ac7cfbf6ac0112e22301f423bbd4b261",
+  "references/web-config.md": "f3c00a782dd285c7ff94c71561bcb46f49c6aee03092e88e7397774bd3532d3f",
+  "references/workspace-rules.md": "b36ec165f40589819c7bf37707408eca7b512240ef7ebc0160510998ea3816dd"
+}
