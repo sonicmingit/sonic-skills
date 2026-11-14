@@ -26,7 +26,7 @@
 | 技能名称 | 目录与文档 | 用途 |
 |---|---|---|
 | sonic-rules-技能创建规范 | [sonic-rules-skills](sonic-rules-skills/SKILL.md) | 统一技能分类、命名、中文文档、更新日志和仓库索引，管理 OneDrive、GitHub 与本机技能之间的同步。 |
-| sonic-rules-项目交接与分工 | [sonic-rules-project-handoff](sonic-rules-project-handoff/SKILL.md) | 维护项目规则、计划与交接记录，由主模型细化设计、按任务选模并分批调度，最多并发 3 个子 Agent，统一验收并支持续接。 |
+| sonic-rules-项目交接与分工 | [sonic-rules-project-handoff](sonic-rules-project-handoff/SKILL.md) | 维护项目规则、计划与交接记录，由主模型细化设计，优先按任务选择 Luna / Sol / Terra 及思考等级并分批调度，最多并发 3 个子 Agent，统一验收并支持续接。 |
 
 ### dev：开发
 
