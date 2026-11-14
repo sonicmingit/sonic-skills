@@ -2,7 +2,7 @@
 
 这里集中维护 Sonic 创建或定制的 Agent 技能，涵盖开发、工具使用、自部署服务操作及运行维护。每个技能独立存放，具体使用条件和步骤见对应的 `SKILL.md`。
 
-最后更新：**2026-11-13**。当前共 **16 个技能**。
+最后更新：**2026-11-14**。当前共 **16 个技能**。
 
 ## 分类与命名
 
@@ -26,7 +26,7 @@
 | 技能名称 | 目录与文档 | 用途 |
 |---|---|---|
 | sonic-rules-技能创建规范 | [sonic-rules-skills](sonic-rules-skills/SKILL.md) | 统一技能分类、命名、中文文档、更新日志和仓库索引，管理 OneDrive、GitHub 与本机技能之间的同步。 |
-| sonic-rules-项目交接与分工 | [sonic-rules-project-handoff](sonic-rules-project-handoff/SKILL.md) | 初始化和维护项目规则、计划与交接记录，按任务复杂度组织实施和验收，支持跨会话或换机续接。 |
+| sonic-rules-项目交接与分工 | [sonic-rules-project-handoff](sonic-rules-project-handoff/SKILL.md) | 维护项目规则、计划与交接记录，由主模型细化设计、按任务选模并分批调度，最多并发 3 个子 Agent，统一验收并支持续接。 |
 
 ### dev：开发
 
