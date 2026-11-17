@@ -32,7 +32,7 @@
 
 | 技能名称 | 目录与文档 | 用途 |
 |---|---|---|
-| sonic-dev-Java开发规范 | [sonic-dev-java](sonic-dev-java/SKILL.md) | 本地 Markdown 阿里手册、中文注释、Spring 结构、方法复用、Codex 分工及确认后代码审查。 |
+| sonic-dev-Java开发规范 | [sonic-dev-java](sonic-dev-java/SKILL.md) | 本地阿里手册、Java 编码与交付规则、项目架构索引、开发文档模板、Codex 分工及确认后代码审查。 |
 | sonic-dev-AIPassport开发规范 | [sonic-dev-ai-passport](sonic-dev-ai-passport/SKILL.md) | 整合 AI Passport 原五个技能、Sonic 项目归档与模型选择、中文 UI、通用 Web 配置模板及授权固件验收。 |
 | sonic-dev-SD2开发指南 | [sonic-dev-sd2](sonic-dev-sd2/SKILL.md) | 为 ESP8266 SD2 桌面小电视开发或移植固件，查询硬件引脚，诊断刷写、启动与显示问题。 |
 | sonic-dev-小米手表开发 | [sonic-dev-watch5](sonic-dev-watch5/SKILL.md) | 国行 Watch 5 APK 开发；先设计再按难度选择子 Agent 模型，复用圆屏/BLE 经验及固定签名备份，支持换机恢复。 |
