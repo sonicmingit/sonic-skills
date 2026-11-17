@@ -1,4 +1,4 @@
 interface:
   display_name: "sonic-dev-Java开发规范"
   short_description: "遵循阿里手册，统一中文注释、Spring结构、方法复用与代码审查"
-  default_prompt: "使用 $sonic-dev-Java开发规范 完成本次 Java 开发和代码审查。"
+  default_prompt: "使用 $sonic-dev-Java开发规范 完成本次 Java 开发，结束后询问我是否需要 Code Review。"
